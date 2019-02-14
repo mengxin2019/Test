@@ -1,1 +1,2 @@
 #include <QString>
+#include <QLable>
